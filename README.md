@@ -19,4 +19,4 @@ Este repositorio fue creado como parte de una práctica académica para aprender
 - Realizar commits.
 - Crear ramas de trabajo.
 - Subir cambios a GitHub.
-- Crear un Pull Request.
+- Crear un Pull Request. 
