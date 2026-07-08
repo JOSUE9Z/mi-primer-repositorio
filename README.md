@@ -2,10 +2,10 @@
 
 ## Datos personales
 
-Nombre: [Escribe tu nombre completo]
-Carrera: [Escribe tu carrera]
-Semestre: [Escribe tu semestre]
-Asignatura: [Escribe la asignatura]
+Nombre: Josue Zambrano
+Carrera: Tecnologia de la Informacion
+Semestre: 6to semestre 
+Asignatura: Ingenieria de software II
 
 ## Descripción del proyecto
 
